@@ -1,6 +1,11 @@
 :root {
-	background-color: #4f4f4f;
+	font-family: monospace;
+	font-size: 16px;
+	background-color: var(--background-color);
 	color: white;
+
+	--board-border-color: white;
+	--background-color: #4f4f4f;
 
 	--letter-lv-0: #041dff;
 	--letter-lv-1: #1c64ff;
