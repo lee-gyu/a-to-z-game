@@ -1,0 +1,38 @@
+:root {
+	background-color: #4f4f4f;
+	color: white;
+
+	--letter-lv-0: #041dff;
+	--letter-lv-1: #1c64ff;
+	--letter-lv-2: #2d81ff;
+	--letter-lv-3: #45caff;
+	--letter-lv-4: #56ffff;
+	--letter-lv-5: #5fffff;
+	--letter-lv-6: #19ffba;
+	--letter-lv-7: #19ffa7;
+	--letter-lv-8: #19ff52;
+	--letter-lv-9: #3fff19;
+	--letter-lv-10: #4fff19;
+	--letter-lv-11: #f04bff;
+	--letter-lv-12: #9421ff;
+	--letter-lv-13: #ff21cf;
+	--letter-lv-14: #d321ff;
+	--letter-lv-15: #6f21ff;
+	--letter-lv-16: #d5d100;
+	--letter-lv-17: #c0d500;
+	--letter-lv-18: #d5b500;
+	--letter-lv-19: #d5c700;
+	--letter-lv-20: #d5c000;
+	--letter-lv-21: #d57900;
+	--letter-lv-22: #d54e00;
+	--letter-lv-23: #d56000;
+	--letter-lv-24: #d52b00;
+	--letter-lv-25: #d50000;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	margin: 0;
+}
